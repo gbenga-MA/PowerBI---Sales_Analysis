@@ -1,0 +1,82 @@
+1. Generated Revenue = Total of Shipment Revenue ($44,692.389).
+
+2. Total Profit = Maximum revenue of shipment profit($20,239,869.51000005).
+Whereas;
+ * Profit = Shipments amount - Shipments cost price
+
+3. Highest Profit = Maximum revenue of shipments profit ($16,446.39)
+
+4. Highest Loss = Minimum revenue of shipments profit ($-13,624.71).
+
+5. Lowest Sales = Least sales of the shipments revenue ($2.25).
+
+6. Number of Products : Counts of the product identity.
+ The products;
+* Milk Bars
+* 50% Dark Bites
+* Almond Choco
+* Raspberry choco
+* Mint Chip Choco
+* Eclairs
+* Drinking Coco
+* 99% Dark & Pure
+* Orange Choco
+* Spicy Specials Slims
+* After Nines
+* Fruit & Nuts Bars
+* 85% Dark Bars
+* White Choc
+* Baker's Choco Chips
+* Organic Choco Syrup
+* Caramel Stuffed Bars
+* Manuka Honey Choco
+* 70% Dark Bites
+* Smooth Silky Salty
+* Choco Coated Almonds
+* Peanuts Butter Cubes
+
+7. Number of Category : Distinct Counts of the Product Category.
+
+Here are the Category;
+
+* Bars
+* Bites
+* Others
+
+***OVERALL ANALYSIS***
+
+1. Total Revenue of Shipments by Region;
+
+* AMERICAS = $10,554,851.25
+* APAC(ASIA PACIFIC) = $23,595,732
+* EUROPE = $10,541,805.75
+ 
+ TOTAL = $44,692,389
+
+2. Total Revenue of Shipments by Region and Category;
+
+* Americas
+
+Bars = $5,318,084.25
+Bites = $2,845,680.75
+Other = $2,391,086.25
+
+* APAC(ASIA PACIFIC)
+
+Bars = $11,634,412.5
+Bites = $6,426,839.25
+Other = $5,534,480.25
+
+* EUROPE
+
+Bars = $5,235,435
+Bites = $2,816,208
+Other = $2,490,162.75
+
+3. Total Revenue of Shipments by Category;
+
+Bars = $22,187,931.75
+Bites = $12,088,728
+Other = $10,415,729.25 
+ 
+ TOTAL REVENUE GENERATED = $44,692,389
